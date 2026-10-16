@@ -1,1 +1,2 @@
-# VPC-Cloudformation
+# VPC-CloudFormation
+Create VPC, Subnet, InternetGateway, RouteTable
